@@ -1,4 +1,4 @@
-# nanopolish_methylation
+# Nanopolish Methylation Pipeline
 
 This is a pipeline to call methylation using nanopolish.
 
